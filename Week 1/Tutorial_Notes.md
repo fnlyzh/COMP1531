@@ -1,7 +1,8 @@
 Admin
 -
-Attend every tutorial; if not, my group project mark gets scaled down
-My group:
+Attend every tutorial; if not, my group project mark gets scaled down  
+  
+My group (W13B_EGGS):
 - carlson perez
 - jonathon oron
 - kevin xie
