@@ -2,11 +2,11 @@ Admin
 -
 Attend every tutorial; if not, my group project mark gets scaled down  
   
-My group (W13B_EGGS):
-- carlson perez
-- jonathon oron
-- kevin xie
-- xiaozong jin
+My group (W13B_DREAM):
+- Jonathan Shih
+- Nahiyan Kader
+- Aliemul Islam
+- Tharun Khokulan
 
 Javascript - Misc:
 -
